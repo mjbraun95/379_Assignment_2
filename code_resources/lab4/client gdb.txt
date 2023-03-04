@@ -1,0 +1,4 @@
+set args -c 1 a2p2-ex1.dat
+break 140
+break 69
+run

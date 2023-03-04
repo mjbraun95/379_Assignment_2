@@ -1,0 +1,8 @@
+Use a FIFO from lab4
+Don't use client and server?
+Use poll()
+    Then it'll go and check all the fifos for data
+no sockets
+no pipes either
+
+Go through //#### an //## comments in fifoMsg.c
